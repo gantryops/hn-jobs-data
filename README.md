@@ -49,6 +49,11 @@ OPENROUTER_API_KEY=your_key pnpm pipeline
 - **GitHub Actions** for scheduling
 - **GitHub Pages** for serving JSON
 
+## Data Sources
+
+- Job data from [Hacker News](https://news.ycombinator.com) via the [HN Firebase API](https://github.com/HackerNews/API) (MIT) and [HN Algolia API](https://hn.algolia.com/api)
+- LLM classification via [OpenRouter](https://openrouter.ai)
+
 ## License
 
 MIT
