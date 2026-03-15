@@ -39,7 +39,7 @@ OPENROUTER_API_KEY=your_key pnpm pipeline
 
 ## Cost
 
-~$0.01 per run (~100k input tokens at $0.10/M). Two runs per month = ~$0.26/year.
+~$0.07 per run (37 batches × ~$0.002 each via Gemini 3.1 Flash Lite). Two runs per month = under $2/year.
 
 ## Stack
 
