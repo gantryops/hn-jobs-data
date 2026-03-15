@@ -34,7 +34,6 @@ jobs:
           mkdir _site
           cp -r indexes _site/indexes
           cp -r runs _site/runs
-          cp CNAME _site/CNAME
 
       - uses: actions/upload-pages-artifact@v4
         with:
