@@ -44,10 +44,10 @@ Mobile:        iOS, Android, React Native, Flutter
 
 Only use the following role names. Normalize all variants to the closest match.
 
-Senior Software Engineer, Staff Engineer, Principal Engineer, Engineering Manager,
-Full Stack Engineer, Backend Engineer, Frontend Engineer, Mobile Engineer,
-ML Engineer, AI Engineer, Data Scientist, Data Engineer, DevOps / SRE,
-Product Manager, Designer, Other
+Software Engineer, Senior Software Engineer, Staff Engineer, Principal Engineer,
+Engineering Manager, Full Stack Engineer, Backend Engineer, Frontend Engineer,
+Mobile Engineer, ML Engineer, AI Engineer, Data Scientist, Data Engineer,
+DevOps / SRE, Product Manager, Designer, Other
 
 ## Experience Level Rules
 

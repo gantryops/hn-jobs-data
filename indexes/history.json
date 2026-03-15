@@ -3,7 +3,7 @@
   "runs": [
     {
       "date": "2026-01-01",
-      "job_count": 295,
+      "job_count": 264,
       "top_techs": [
         "Python",
         "React",
@@ -12,40 +12,40 @@
         "AWS"
       ],
       "top_roles": [
+        "Software Engineer",
         "Full Stack Engineer",
         "Senior Software Engineer",
-        "Other",
         "Backend Engineer",
-        "DevOps / SRE"
+        "Product Manager"
       ],
-      "remote_pct": 41.7,
-      "salary_mentioned_pct": 26.8,
-      "ai_ml_mentioned_pct": 61
+      "remote_pct": 47,
+      "salary_mentioned_pct": 27.7,
+      "ai_ml_mentioned_pct": 67
     },
     {
       "date": "2026-02-01",
-      "job_count": 452,
+      "job_count": 441,
       "top_techs": [
-        "TypeScript",
         "Python",
+        "TypeScript",
         "React",
         "PostgreSQL",
         "AWS"
       ],
       "top_roles": [
-        "Senior Software Engineer",
+        "Software Engineer",
         "Full Stack Engineer",
+        "Senior Software Engineer",
         "Backend Engineer",
-        "Other",
-        "DevOps / SRE"
+        "Product Manager"
       ],
-      "remote_pct": 40.9,
-      "salary_mentioned_pct": 26.8,
-      "ai_ml_mentioned_pct": 60.6
+      "remote_pct": 41.7,
+      "salary_mentioned_pct": 31.7,
+      "ai_ml_mentioned_pct": 62.6
     },
     {
       "date": "2026-03-15",
-      "job_count": 363,
+      "job_count": 343,
       "top_techs": [
         "Python",
         "TypeScript",
@@ -54,15 +54,15 @@
         "AWS"
       ],
       "top_roles": [
+        "Software Engineer",
         "Senior Software Engineer",
         "Full Stack Engineer",
-        "Other",
-        "Backend Engineer",
-        "DevOps / SRE"
+        "DevOps / SRE",
+        "Other"
       ],
-      "remote_pct": 41.3,
-      "salary_mentioned_pct": 31.4,
-      "ai_ml_mentioned_pct": 63.1
+      "remote_pct": 43.7,
+      "salary_mentioned_pct": 32.7,
+      "ai_ml_mentioned_pct": 67.1
     }
   ]
 }

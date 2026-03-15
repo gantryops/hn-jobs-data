@@ -5,7 +5,7 @@
   "sources": {
     "who_is_hiring_thread_id": 46857488,
     "who_is_hiring_thread_title": "Ask HN: Who is hiring? (February 2026)",
-    "direct_jobstories_count": 31
+    "direct_jobstories_count": 20
   },
   "jobs": [
     {
@@ -2956,158 +2956,81 @@
       "text": "Sent an email out just a bit ago! Please let me know if it doesn&#x27;t arrive for whatever reason.<p>EDIT: Looks like my comment was detached from its thread (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46857847\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46857847</a>) without a comment explaining why. It&#x27;s not breaking any of the stated rules at the top, and it seems like it would be common sense to let someone know they should expect a message (especially considering how temperamental email filtering can be these days). If this _is_ against the rules, I&#x27;d appreciate it if future hiring threads stated as such so that people like myself that have been trying to find a job for 7+ months can stop wasting our time here. I understand how it can be challenging to moderate a forum like HN, but the moderation priorities seem pretty disappointing, unfortunately."
     },
     {
-      "id": 47376619,
-      "source": "direct",
-      "by": "ukd1",
-      "time": 1773495904,
-      "text": "9 Mothers Defense (YC P26) Is Hiring in Austin"
-    },
-    {
-      "id": 47353904,
-      "source": "direct",
-      "by": "thomashlvt",
-      "time": 1773334906,
-      "text": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)"
-    },
-    {
-      "id": 47351089,
-      "source": "direct",
-      "by": "patman_h",
-      "time": 1773325966,
-      "text": "Hive (YC S14) is hiring scrappy product managers and product/data engineers"
-    },
-    {
-      "id": 47341760,
-      "source": "direct",
-      "by": "Gabriel_h",
-      "time": 1773262902,
-      "text": "Meticulous (YC S21) is hiring to redefine software dev"
-    },
-    {
-      "id": 47289357,
-      "source": "direct",
-      "by": "pranay01",
-      "time": 1772902874,
-      "text": "SigNoz (YC W21) is hiring for engineering, growth and product roles"
-    },
-    {
-      "id": 47277679,
-      "source": "direct",
-      "by": "multifactor",
-      "time": 1772816438,
-      "text": "Multifactor (YC F25) Is Hiring an Engineering Lead"
-    },
-    {
-      "id": 47271858,
-      "source": "direct",
-      "by": "sanketc",
-      "time": 1772780528,
-      "text": "Stardex (YC S21) is hiring customer success engineers"
-    },
-    {
-      "id": 47267236,
-      "source": "direct",
-      "by": "issygreenslade",
-      "time": 1772744490,
-      "text": "Structured AI (YC F25) Is Hiring"
-    },
-    {
-      "id": 47251163,
-      "source": "direct",
-      "by": "yeldarb",
-      "time": 1772646584,
-      "text": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra"
-    },
-    {
-      "id": 47246268,
-      "source": "direct",
-      "by": "grmmph",
-      "time": 1772625702,
-      "text": "Jiga (YC W21) Is Hiring"
-    },
-    {
-      "id": 47220666,
-      "source": "direct",
-      "by": "apetuskey",
-      "time": 1772470880,
-      "text": "Reflex (YC W23) Is Hiring Software Engineers – Python"
-    },
-    {
       "id": 47183907,
       "source": "direct",
       "by": "asontha",
       "time": 1772217473,
-      "text": "Kyber (YC W23) Is Hiring an Enterprise Account Executive"
+      "text": "Kyber (YC W23) Is Hiring an Enterprise Account Executive\n\nEnterprise Account Executive (AE) at Kyber | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Kyber Instantly draft, review, and send complex regulatory notices. Enterprise Account Executive (AE) $220K - $260K • 0.05% - 0.25% • New York, NY, US Job type Full-time Role Sales Experience 3+ years Visa US citizen/visa only Connect directly with founders of the best YC-funded startups. Apply to role › Arvind Sontha Founder Arvind Sontha Founder About the role At Kyber, we're building the next-generation document platform for enterprises. Today, our AI-native solution transforms regulatory document workflows, enabling insurance claims organizations to consolidate 80% of their templates, spend 65% less time drafting, and compress overall communication cycle times by 5x. Our vision is for every enterprise to seamlessly leverage AI templates to generate every document. Over the past 18 months, we’ve: 30x’d revenue and are profitable. Landed multiple six and seven figure, multi-year contracts with leading insurance enterprises, all through word of mouth. Launched strategic partnerships with industry leading software partners like Guidewire, Majesco, and Lob. Kyber is backed by top Silicon Valley VCs, including Y Combinator and Fellows Fund. We’re now looking for elite Enterprise Account Executives who can drive pipeline, navigate complex multi-threaded enterprise sales environments, close deals, and own the full sales cycle in order to scale our impact across the insurance industry and beyond. Responsibilities: You'll play a critical role in driving revenue growth by: Owning the Full Sales Cycle: Execute end-to-end enterprise sales processes, handling everything from outbound prospecting to contract execut"
     },
     {
       "id": 47178176,
       "source": "direct",
       "by": "ozgune",
       "time": 1772181902,
-      "text": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA"
+      "text": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA\n\nSoftware Engineer at Ubicloud | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Ubicloud Open source alternative to AWS Software Engineer $95K - $250K • 0.15% - 0.50% • CA, US / Remote (NL; TR) Job type Full-time Role Engineering, Full stack Experience 3+ years Visa US citizen/visa only Connect directly with founders of the best YC-funded startups. Apply to role › Ozgun Erdogan Founder Ozgun Erdogan Founder About the role Ubicloud is an open source alternative to AWS. Our cloud services include elastic compute, block storage, CI/CD (GitHub Actions), K8s, managed Postgres, and AI inference. Today, we serve 500+ customers on our managed cloud. We’re now hiring engineers to help us with our Postgres, GitHub Actions, and AI inference products. Who we are With our product(s), we make informed bets on market fundamentals. We then use customer feedback to keep making those products better. To do this well, we enable our team. We’re deliberate about communicating structures. We ensure that people closest to problems have the agency to solve them and take accountability for outcomes. You can take a look at our codebase on GitHub . The tech world changes constantly. New hardware, new customer needs, new competitive dynamics. We expect everyone here to grow alongside it. Growth mindset (vs fixed mindset) isn't something we talk about in offsites and forget. We’re energized by learning new things and we aspire to get a little bit better each day. At Ubicloud, we’re also applying AI tools / techniques more and more during our software development processes. We’d like to share more when we chat in person. What we are looking for We’re hiring for mid-stage software engineers. You’d hold the equivalent of a Com"
     },
     {
       "id": 47175013,
       "source": "direct",
       "by": "ij23",
       "time": 1772155098,
-      "text": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity"
+      "text": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity\n\nFounding Reliability Performance Engineer at LiteLLM | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply LiteLLM Call every LLM API like it&#x27;s OpenAI [100+ LLMs] Founding Reliability Performance Engineer $200K - $270K • 0.25% - 0.75% • San Francisco, CA, US Job type Full-time Role Engineering, Backend Experience 3+ years Visa US citizen/visa only Skills Kubernetes, Python, Redis, PostgreSQL Connect directly with founders of the best YC-funded startups. Apply to role › Ishaan Jaffer Founder Ishaan Jaffer Founder About the role TLDR LiteLLM is an open-source AI gateway (36K+ GitHub stars) that routes hundreds of millions of LLM API calls daily for companies like NASA, Adobe, Netflix, Stripe, and Nvidia. We're at $7M ARR, 10 people, YC W23. When LiteLLM goes down, our customers' entire AI stack goes down. We need someone who makes sure that doesn't happen. You'd be the first dedicated reliability hire. You'll own reliability, performance, and production stability end-to-end. Nobody will tell you how to do it What this job actually is We'll be straight with you: this role is roughly 60% operational reliability and 40% deep performance engineering. On any given week you might be: Hunting a memory leak in our async streaming handler that causes OOMs after 4 hours under load Fixing a race condition where PodLockManager releases another pod's lock Profiling why update_database() does 7 deep copies per request in the spend tracking hot path Helping a Fortune 500 customer debug why their 20-pod deployment is exhausting Postgres connections Building soak tests that catch degradation before a release goes out Reviewing a PR that touches the request hot path and saying this will add 50ms at P99, here's why"
     },
     {
       "id": 47168721,
       "source": "direct",
       "by": "rooppal",
       "time": 1772125225,
-      "text": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable"
+      "text": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable\n\nAI/SWE Intern (Now and Summer 2026) at Bild AI | Y Combinator&#39;s Work at a Startup"
     },
     {
       "id": 47164933,
       "source": "direct",
       "by": "joshwget",
       "time": 1772107334,
-      "text": "Hightouch (YC S19) Is Hiring"
+      "text": "Hightouch (YC S19) Is Hiring\n\nCareers | Hightouch Skip to main content Copy .SVG Brand assets Press Platform Composable CDP Customer Studio Build audiences Reverse ETL Sync data Identity Resolution Stitch users together Hightouch Events Collect data Real-time Personalization Dynamic digital experiences Match Booster Increase ad match rates Intelligence Analyze campaigns Hightouch Agentic Marketing Platform Content Assembly New Create infinite content using your existing assets and brand guidelines AI Decisioning Deliver 1:1 experiences at scale using reinforcement learning Enterprise-ready platform features Enterprise-level security Enterprise-level security with SOC 2 Type 2 and ISO 27001 certification Observability Full transparency and control to monitor and troubleshoot Governance access control Robust access control and change management Solutions By team Marketing Advertising Data Operations By industry Retail eCommerce Financial Services Travel Hospitality Media Entertainment Quick Service Restaurants Healthcare B2B SaaS For marketing Audience segmentation Journey orchestration Real-time personalization Profile enrichment Customer 360 For advertising Audience targeting Audience suppression Conversion tracking Match rate boosting Featured Learn about the benefits of a Composable CDP and how it compares to a traditional CDP solution Learn more Integrations All integrations Integration catalog Hightouch integrates with 250+ tools spanning Advertising, Marketing Automation, CRMs, Customer Success, and more See all 250+ integrations Popular sources Snowflake Databricks Google BigQuery AWS Redshift Azure Synapse See all sources Popular destinations Salesforce HubSpot Google Ads Facebook Ads Iterable See all destinations Popular extensions dbt Sigma Looker Fivetran Customers Resources Explore Blog Learn Whitepapers guides Playbooks Lifecycle Leaders newsletter CDP Comparisons Documentation Core concepts Understand the basics of how Hightouch works Syncs Syncs define how you want to get data from"
     },
     {
       "id": 47154246,
       "source": "direct",
       "by": "macklinkachorn",
       "time": 1772038932,
-      "text": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access"
+      "text": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access\n\nLead Deployment Strategist at Trellis AI | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Trellis AI AI for streamlining healthcare paperwork Lead Deployment Strategist $80K - $180K • San Francisco, CA, US / Remote (US) Job type Full-time Role Operations Experience 1+ years Visa US citizen/visa only Apply to Trellis AI and hundreds of other fast-growing YC startups with a single profile. Apply to role › About the role Trellis builds and deploys self-improving agents to get patients access to life-saving medicine. Our AI agents process billions of dollars worth of therapies annually with patients in all fifty states. We do this by automating document intake, prior authorizations, and appeals at scale to streamline operations and accelerate care. We classify medical referrals, understand chart notes, and automate contract and reimbursement search to provide patients with accurate coverage determinations and cost responsibility. Think of us as the the infrastructure behind how the patients get the medications. Trellis is a spinout from Stanford AI Lab and is backed by leading investors including YC, General Catalyst, Telesoft Partners, and executives at Google and Salesforce. About You You're highly structured, detail-oriented, and thrive in complex deployment environments. You enjoy being on the front lines with customers, translating technical capabilities into real-world implementations that drive measurable impact. You are comfortable operating in ambiguity and taking ownership of mission-critical deployments. You work well cross-functionally, aligning internal engineering teams with customer IT and operational stakeholders. You bring a consulting mindset, strong project management discipline,"
     },
     {
       "id": 47150403,
       "source": "direct",
       "by": "ocolegro",
       "time": 1772020871,
-      "text": "Event Horizon Labs (YC W24) Is Hiring"
+      "text": "Event Horizon Labs (YC W24) Is Hiring\n\nFounding Software Engineer at Event Horizon Labs | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Event Horizon Labs AI-native hedge fund using agents to automate quant research—at scale Founding Software Engineer $150K - $200K • 1.00% - 3.00% • San Francisco, CA, US Job type Full-time Role Engineering, Backend Experience 3+ years Visa US citizen/visa only Skills Kubernetes, Python Connect directly with founders of the best YC-funded startups. Apply to role › Owen Colegrove Founder Owen Colegrove Founder About the role Founding Software Engineer Event Horizon Labs — San Francisco (in-person) We're a small, tight-knit team building autonomous research infrastructure from scratch. The orchestrator, the agents, the compounding knowledge base are already discovering profitable strategies and scaling with each new model release. These are founding roles with competitive salary and equity. The next breakthrough isn't a better model — it's infrastructure for autonomous problem-solving . Markets are the first domain because feedback is immediate, signal is verifiable, and outcomes are directly monetizable. What we're building doesn't stop at markets. Team from Citadel, Jump Trading, Stanford, Caltech, Berkeley. You build the platform everything runs on. Design the orchestration layer that dispatches parallel research sessions, the data pipelines that feed them, the observability that monitors them, and the trading systems that act on what they find. Distributed systems meets autonomous AI infrastructure. You might work on Compute scheduling and resource allocation across hundreds of agents Streaming data pipelines for real-time market ingestion Agent observability, experiment tracking, and reproducibil"
     },
     {
       "id": 47145911,
       "source": "direct",
       "by": "leastsquares",
       "time": 1771981262,
-      "text": "Corgi Labs (YC W23) Is Hiring"
+      "text": "Corgi Labs (YC W23) Is Hiring\n\nFounders Associate at Corgi Labs | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Corgi Labs AI to increase payment acceptance and reduce fraud for businesses Founders Associate $3K - $4.5K / monthly • 0.10% - 0.20% • San Francisco, CA, US / SG Job type Full-time Role Support Experience Any (new grads ok) Visa US citizen/visa only Connect directly with founders of the best YC-funded startups. Apply to role › Saif Farooqui Founder Saif Farooqui Founder About the role Who we are About Corgi Labs Corgi Labs uses proprietary AI to optimize payment acceptance, boosting revenue through superior fraud prevention. We are data-driven with an explainable AI approach for transparency About the team We’re looking for Founder's Associates (2 roles: 1 in US and 1 in Singapore) to work closely with the founders at Corgi Labs. This role is for someone who enjoys bringing structure to chaos and owning operational details end-to-end. You’ll sit at the center of the business, across internal ops, external partners, and founder priorities, helping turn decisions into execution. What you’ll do We seek a Founder's Associate to work closely with the founders. This role demands bringing structure to chaos, owning end-to-end operational details, and translating decisions into execution across internal ops, external partners, and founder priorities. You will work directly with the founders to provide structure, clarity, and follow-through on the company’s highest priorities. This role blends strategic thinking with strong operational execution, involving setting up lightweight processes, coordinating teams, resolving blockers, and ensuring project completion. Your focus is maintaining priority alignment and allowing fou"
     },
     {
       "id": 47139475,
       "source": "direct",
       "by": "alicexzhang",
       "time": 1771952434,
-      "text": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng"
+      "text": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng\n\nVerge Genomics Jobs You need to enable JavaScript to run this app."
     },
     {
       "id": 47128740,
       "source": "direct",
       "by": "waleedlatif1",
       "time": 1771880428,
-      "text": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco"
+      "text": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco\n\nSoftware Engineer, Platform at Sim | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Sim Open source platform to build AI agent workflows Software Engineer, Platform $140K - $220K • 0.20% - 0.80% • San Francisco, CA, US Job type Full-time Role Engineering, Full stack Experience Any (new grads ok) Visa Will sponsor Skills Next.js Connect directly with founders of the best YC-funded startups. Apply to role › Waleed Latif Co-Founder CTO Waleed Latif Co-Founder CTO About the role About Sim Sim is the open-source platform to build, deploy, and orchestrate AI agents. Over 70,000 developers — from early-stage startups to the U.S. Government — use Sim to turn ideas into production-grade agentic workflows on a visual, Figma-like canvas. We connect to 1,000+ apps and LLMs, and our Copilot is the state of the art for building workflows with natural language. We're a team of 5, YC X25, and backed by a $7M Series A led by Standard Capital with participation from Paul Graham, Perplexity, SV Angel, and Y Combinator. We're based in San Francisco and build in person every day. Our mission is simple: agents will run the world, and Sim is the primary means by which that happens. About the Role You'll lead the Sim platform: the visual, end-to-end agent builder that tens of thousands of developers use every day. You'll own the front-end architecture, the real-time canvas, and the systems that turn visual flows into reliable, production agents. Sim has been called the Figma for AI agents — an intuitive drag-and-drop canvas where developers connect LLMs, tools, APIs, and logic blocks into complex agentic workflows. Your job is to make this experience fast, delightful, and powerful enough that developers never want to"
     },
     {
       "id": 47125026,
       "source": "direct",
       "by": "calderwoodra",
       "time": 1771866043,
-      "text": "Hadrius (YC W23) Is Hiring Designers Who Code"
+      "text": "Hadrius (YC W23) Is Hiring Designers Who Code\n\nSenior Product Designer at Hadrius | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Hadrius Automating Securities Compliance Senior Product Designer $170K - $225K • 0.05% - 0.15% • New York, NY, US Job type Full-time Role Design, Product design Experience 6+ years Visa US citizen/visa only Skills Figma Apply to Hadrius and hundreds of other fast-growing YC startups with a single profile. Apply to role › About the role This is a full-time role to be a Senior Product Designer, located onsite in New York, NY. Design @ Hadrius Like many other fields in tech, how design teams operate is shifting dramatically. That means Figma is being used less and less , while agents are being used more and more. Counter-intuitively though, this means that designers with hard-skills (light coding, speed, design craft) are needed more than ever. At Hadrius, we’re leaning into this: Design is integrated into the codebase, with engineers The feedback loop on designs is very fast (24 hours is a long time!) mercury.com sets the bar for us on craft and design excellence As a Senior Product Designer at Hadrius, you’ll be expected to raise the bar on these ideas. What You'll Do Your Impact Timeline Within your first week: Get a walkthrough of the platform, Figma files, and Design system from our Founding Product Designer, Anushriya . Get your coding environment set up (IDE, coding agent, MCPs, etc.). Lead your first customer call to gain firsthand insight into user challenges. Dive deep into a core module of the Hadrius platform to understand its current state. Get up to speed on our core problem, ideal customer profile (ICP), value proposition, and product roadmap. Within your first month: Ship your first major design pro"
     },
     {
       "id": 47118990,
@@ -3121,28 +3044,28 @@
       "source": "direct",
       "by": "coffeebite",
       "time": 1771675334,
-      "text": "Padlet (YC W13) Is Hiring in San Francisco and Singapore"
+      "text": "Padlet (YC W13) Is Hiring in San Francisco and Singapore\n\nPadlet Corporation – Let&#x27;s get to work MISSION OFFICES VALUES BENEFITS COMRADES MISSION OFFICES VALUES BENEFITS COMRADES JOBS JOBS PADLET CORP USA SGP AUS Manifesto Mission Offices Values Benefits Comrades Jobs anthem LET&#39;S GET TO WORK Your morning cup of coffee. The song you'll play at your wedding. Football, either one. The camera that recorded your first steps. Air conditioning in the living room, hot water in the bathroom. Your every comfort, every joy, every memory. You have them because of someone's work, because of a world at work, because of generations that worked before us. Making. Saving. Breaking. Moving. Wrestling inboxes that never tap out. Five minutes to finish a ziplocked ham sandwich. Trying to find parking. Always trying to find parking. Knots in the gut before the lights turn on. Blisters on fingers where the pencil meets the skin. Snowfall or heatwave. Stardust to sunrise. They showed up for us. Let's show up for them. Let's move. Let's break. Let's save. Let's make. Let's get to work. Nitesh Founder and CEO PADLET.COM BLOG X LINKEDIN"
     },
     {
       "id": 47090610,
       "source": "direct",
       "by": "ympatel",
       "time": 1771606935,
-      "text": "Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health"
+      "text": "Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health\n\nFounding Engineer | 👨🏻‍💻 AI-Native Mental Health Care (backed by Y Combinator, $3.3M+ ARR, $7M+ raised) @ Legion Health You need to enable JavaScript to run this app."
     },
     {
       "id": 47087954,
       "source": "direct",
       "by": "ukd1",
       "time": 1771595082,
-      "text": "9 Mothers (YC X26) Is Hiring"
+      "text": "9 Mothers (YC X26) Is Hiring\n\n9 Mothers Jobs You need to enable JavaScript to run this app."
     },
     {
       "id": 47086946,
       "source": "direct",
       "by": "atulraghu",
       "time": 1771588874,
-      "text": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove"
+      "text": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove\n\nA Full Stack Engineer (with something to prove) at Hyperbound | Y Combinator Open menu About What Happens at YC? Apply YC Interview Guide FAQ People YC Blog Companies Startup Directory Founder Directory Launch YC Library Partners Resources Startup School Newsletter Requests for Startups For Investors Verify Founders Hacker News Bookface Safe Find a Co-Founder Startup Jobs Log in Apply Hyperbound Revenue Activation Platform A Full Stack Engineer (with something to prove) $200K - $260K • 0.15% - 0.30% • San Francisco, CA, US Job type Full-time Role Engineering, Full stack Experience 3+ years Visa US citizen/visa only Apply to Hyperbound and hundreds of other fast-growing YC startups with a single profile. Apply to role › About the role We're probably not the right fit for you. We're in-person, 5 days a week. We move fast and expect a lot. You'll ship something the night before a customer demos it in front of 20,000 sales reps at their SKO. You'll watch a feature you built be the reason a customer signs an $800K contract. That kind of thing either sounds like your dream or your nightmare. If it's the former, that's the job. If you'd rather have more structure and a clearer lane, this probably isn't it. Still here? Good. What we're building Hyperbound is the Revenue Activation Platform; An agentic OS for sales that closes the loop between behavior, coaching, and execution. Not a tool that watches what happened. A system that changes what happens next and literally changes the structure of our customer sales orgs in the process. IBM, LinkedIn, Bloomberg, Supabase, Monday.com , Notion, and Vanta are just a few of our customers. They renew. They expand. We just 5xed in ARR the last year and are growing nearly 20% month over month. We just raised a $15M Series A, and had a $1M new ARR week to end the last quarter. 50% of everything we've ever shipped as a company happened in the last three months. The role Key Responsibilities: Build and deploy applications across frontend"
     },
     {
       "id": 47066310,
@@ -3156,14 +3079,14 @@
       "source": "direct",
       "by": "davidbuniat",
       "time": 1771438167,
-      "text": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)"
+      "text": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)\n\nDover You need to enable JavaScript to run this app. tag. To begin the development, run `npm start` or `yarn start`. To create a production bundle, use `npm run build` or `yarn build`. -->"
     },
     {
       "id": 47063338,
       "source": "direct",
       "by": "adchurch",
       "time": 1771434618,
-      "text": "Weave (YC W25) Is Hiring ML, Design, and Product Engineers"
+      "text": "Weave (YC W25) Is Hiring ML, Design, and Product Engineers\n\nWeave Jobs You need to enable JavaScript to run this app."
     },
     {
       "id": 47063220,
@@ -3173,6 +3096,6 @@
       "text": "Flexport Is Hiring Engineers in Amsterdam"
     }
   ],
-  "fetched_at": "2026-03-15T10:26:35.606Z",
-  "total_jobs": 452
+  "fetched_at": "2026-03-15T12:27:35.982Z",
+  "total_jobs": 441
 }
