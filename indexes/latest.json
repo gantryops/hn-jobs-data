@@ -1,0 +1,460 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-03-15",
+  "run_id": "2026-03-15-refresh",
+  "job_count": 363,
+  "technologies": [
+    {
+      "name": "Python",
+      "count": 127,
+      "pct": 35
+    },
+    {
+      "name": "TypeScript",
+      "count": 104,
+      "pct": 28.7
+    },
+    {
+      "name": "React",
+      "count": 101,
+      "pct": 27.8
+    },
+    {
+      "name": "PostgreSQL",
+      "count": 74,
+      "pct": 20.4
+    },
+    {
+      "name": "AWS",
+      "count": 61,
+      "pct": 16.8
+    },
+    {
+      "name": "Kubernetes",
+      "count": 41,
+      "pct": 11.3
+    },
+    {
+      "name": "Node.js",
+      "count": 35,
+      "pct": 9.6
+    },
+    {
+      "name": "Docker",
+      "count": 32,
+      "pct": 8.8
+    },
+    {
+      "name": "Go",
+      "count": 32,
+      "pct": 8.8
+    },
+    {
+      "name": "Rust",
+      "count": 31,
+      "pct": 8.5
+    },
+    {
+      "name": "Next.js",
+      "count": 25,
+      "pct": 6.9
+    },
+    {
+      "name": "Terraform",
+      "count": 21,
+      "pct": 5.8
+    },
+    {
+      "name": "GCP",
+      "count": 20,
+      "pct": 5.5
+    },
+    {
+      "name": "C++",
+      "count": 18,
+      "pct": 5
+    },
+    {
+      "name": "Redis",
+      "count": 18,
+      "pct": 5
+    },
+    {
+      "name": "GraphQL",
+      "count": 15,
+      "pct": 4.1
+    },
+    {
+      "name": "Django",
+      "count": 15,
+      "pct": 4.1
+    },
+    {
+      "name": "Rails",
+      "count": 14,
+      "pct": 3.9
+    },
+    {
+      "name": "Ruby",
+      "count": 13,
+      "pct": 3.6
+    },
+    {
+      "name": "JavaScript",
+      "count": 13,
+      "pct": 3.6
+    },
+    {
+      "name": "PyTorch",
+      "count": 12,
+      "pct": 3.3
+    },
+    {
+      "name": "Java",
+      "count": 12,
+      "pct": 3.3
+    },
+    {
+      "name": "React Native",
+      "count": 10,
+      "pct": 2.8
+    },
+    {
+      "name": "FastAPI",
+      "count": 9,
+      "pct": 2.5
+    },
+    {
+      "name": "TensorFlow",
+      "count": 8,
+      "pct": 2.2
+    },
+    {
+      "name": "Kotlin",
+      "count": 8,
+      "pct": 2.2
+    },
+    {
+      "name": "Vue",
+      "count": 7,
+      "pct": 1.9
+    },
+    {
+      "name": "Elixir",
+      "count": 7,
+      "pct": 1.9
+    },
+    {
+      "name": "Kafka",
+      "count": 6,
+      "pct": 1.7
+    },
+    {
+      "name": "Elasticsearch",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "MySQL",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "LangChain",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "Flutter",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "Scala",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "C#",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "Swift",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "Azure",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "MongoDB",
+      "count": 5,
+      "pct": 1.4
+    },
+    {
+      "name": "Laravel",
+      "count": 4,
+      "pct": 1.1
+    },
+    {
+      "name": "Svelte",
+      "count": 4,
+      "pct": 1.1
+    },
+    {
+      "name": "iOS",
+      "count": 3,
+      "pct": 0.8
+    },
+    {
+      "name": "Android",
+      "count": 3,
+      "pct": 0.8
+    },
+    {
+      "name": "Hugging Face",
+      "count": 3,
+      "pct": 0.8
+    },
+    {
+      "name": "Tailwind",
+      "count": 3,
+      "pct": 0.8
+    },
+    {
+      "name": "PHP",
+      "count": 3,
+      "pct": 0.8
+    },
+    {
+      "name": "Angular",
+      "count": 3,
+      "pct": 0.8
+    },
+    {
+      "name": "OpenAI API",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "name": "Supabase",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "name": "GitHub Actions",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "name": "Sidekiq",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "name": "SQL",
+      "count": 2,
+      "pct": 0.6
+    },
+    {
+      "name": "Cassandra",
+      "count": 1,
+      "pct": 0.3
+    },
+    {
+      "name": "Cloudflare",
+      "count": 1,
+      "pct": 0.3
+    },
+    {
+      "name": "Pulumi",
+      "count": 1,
+      "pct": 0.3
+    },
+    {
+      "name": "Pub/Sub",
+      "count": 1,
+      "pct": 0.3
+    },
+    {
+      "name": "RabbitMQ",
+      "count": 1,
+      "pct": 0.3
+    },
+    {
+      "name": "Spring",
+      "count": 1,
+      "pct": 0.3
+    },
+    {
+      "name": "C",
+      "count": 1,
+      "pct": 0.3
+    }
+  ],
+  "roles": [
+    {
+      "name": "Senior Software Engineer",
+      "count": 87,
+      "pct": 24
+    },
+    {
+      "name": "Full Stack Engineer",
+      "count": 80,
+      "pct": 22
+    },
+    {
+      "name": "Other",
+      "count": 51,
+      "pct": 14
+    },
+    {
+      "name": "Backend Engineer",
+      "count": 49,
+      "pct": 13.5
+    },
+    {
+      "name": "DevOps / SRE",
+      "count": 24,
+      "pct": 6.6
+    },
+    {
+      "name": "ML Engineer",
+      "count": 18,
+      "pct": 5
+    },
+    {
+      "name": "AI Engineer",
+      "count": 16,
+      "pct": 4.4
+    },
+    {
+      "name": "Software Engineer",
+      "count": 15,
+      "pct": 4.1
+    },
+    {
+      "name": "Staff Engineer",
+      "count": 15,
+      "pct": 4.1
+    },
+    {
+      "name": "Engineering Manager",
+      "count": 11,
+      "pct": 3
+    },
+    {
+      "name": "Product Manager",
+      "count": 10,
+      "pct": 2.8
+    },
+    {
+      "name": "Frontend Engineer",
+      "count": 9,
+      "pct": 2.5
+    },
+    {
+      "name": "Designer",
+      "count": 9,
+      "pct": 2.5
+    },
+    {
+      "name": "Data Scientist",
+      "count": 8,
+      "pct": 2.2
+    },
+    {
+      "name": "Principal Engineer",
+      "count": 8,
+      "pct": 2.2
+    },
+    {
+      "name": "Data Engineer",
+      "count": 6,
+      "pct": 1.7
+    },
+    {
+      "name": "Mobile Engineer",
+      "count": 6,
+      "pct": 1.7
+    },
+    {
+      "name": "Product Engineer",
+      "count": 4,
+      "pct": 1.1
+    }
+  ],
+  "compensation": {
+    "salary_mentioned_count": 114,
+    "salary_mentioned_pct": 31.4,
+    "ranges": [
+      {
+        "band": "$150k-$200k",
+        "count": 49
+      },
+      {
+        "band": "$200k+",
+        "count": 40
+      },
+      {
+        "band": "$100k-$150k",
+        "count": 25
+      },
+      {
+        "band": "<$100k",
+        "count": 8
+      },
+      {
+        "band": "$200+",
+        "count": 2
+      }
+    ],
+    "equity_mentioned_count": 91,
+    "equity_mentioned_pct": 25.1
+  },
+  "remote": {
+    "fully_remote": {
+      "count": 150,
+      "pct": 41.3
+    },
+    "hybrid": {
+      "count": 73,
+      "pct": 20.1
+    },
+    "onsite_only": {
+      "count": 89,
+      "pct": 24.5
+    },
+    "not_mentioned": {
+      "count": 50,
+      "pct": 13.8
+    }
+  },
+  "experience_levels": [
+    {
+      "level": "Senior",
+      "count": 176,
+      "pct": 48.5
+    },
+    {
+      "level": "Not specified",
+      "count": 155,
+      "pct": 42.7
+    },
+    {
+      "level": "Mid",
+      "count": 18,
+      "pct": 5
+    },
+    {
+      "level": "Junior",
+      "count": 14,
+      "pct": 3.9
+    }
+  ],
+  "ai_ml_mentioned_pct": 63.1,
+  "generated_at": "2026-03-15T10:51:36.930Z"
+}

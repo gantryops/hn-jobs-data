@@ -1,0 +1,41 @@
+name: HN Jobs Pipeline
+
+on:
+  schedule:
+    - cron: "0 10 3 * *"  # 3rd of month — thread is posted on first weekday
+    - cron: "0 10 28 * *" # 28th of month — catch late postings before month ends
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit JSON files
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+          cache: "pnpm"
+
+      - run: pnpm install --frozen-lockfile
+
+      - run: pnpm exec tsx scripts/run.ts
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add runs/ indexes/
+          git diff --staged --quiet || git commit -m "data: $(date -u +'%Y-%m-%d') pipeline run"
+          git push
+
+      - name: Trigger site rebuild
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: gh api repos/gantryops/hn-jobs-site/dispatches -f event_type=data-updated
