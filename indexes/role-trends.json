@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-03-15T12:39:12.636Z",
+  "updated_at": "2026-04-17T12:28:56.890Z",
   "series": {
     "Software Engineer": [
       {
@@ -17,6 +17,11 @@
         "date": "2026-03-15",
         "count": 150,
         "pct": 43.7
+      },
+      {
+        "date": "2026-04-17",
+        "count": 177,
+        "pct": 47.8
       }
     ],
     "Full Stack Engineer": [
@@ -34,6 +39,11 @@
         "date": "2026-03-15",
         "count": 46,
         "pct": 13.4
+      },
+      {
+        "date": "2026-04-17",
+        "count": 42,
+        "pct": 11.4
       }
     ],
     "Senior Software Engineer": [
@@ -51,6 +61,11 @@
         "date": "2026-03-15",
         "count": 47,
         "pct": 13.7
+      },
+      {
+        "date": "2026-04-17",
+        "count": 41,
+        "pct": 11.1
       }
     ],
     "Backend Engineer": [
@@ -68,6 +83,11 @@
         "date": "2026-03-15",
         "count": 16,
         "pct": 4.7
+      },
+      {
+        "date": "2026-04-17",
+        "count": 22,
+        "pct": 5.9
       }
     ],
     "Product Manager": [
@@ -85,6 +105,11 @@
         "date": "2026-03-15",
         "count": 10,
         "pct": 2.9
+      },
+      {
+        "date": "2026-04-17",
+        "count": 8,
+        "pct": 2.2
       }
     ],
     "ML Engineer": [
@@ -102,6 +127,11 @@
         "date": "2026-03-15",
         "count": 13,
         "pct": 3.8
+      },
+      {
+        "date": "2026-04-17",
+        "count": 10,
+        "pct": 2.7
       }
     ],
     "Other": [
@@ -119,6 +149,11 @@
         "date": "2026-03-15",
         "count": 18,
         "pct": 5.2
+      },
+      {
+        "date": "2026-04-17",
+        "count": 21,
+        "pct": 5.7
       }
     ],
     "Engineering Manager": [
@@ -136,6 +171,11 @@
         "date": "2026-03-15",
         "count": 10,
         "pct": 2.9
+      },
+      {
+        "date": "2026-04-17",
+        "count": 8,
+        "pct": 2.2
       }
     ],
     "DevOps / SRE": [
@@ -153,6 +193,11 @@
         "date": "2026-03-15",
         "count": 19,
         "pct": 5.5
+      },
+      {
+        "date": "2026-04-17",
+        "count": 8,
+        "pct": 2.2
       }
     ],
     "AI Engineer": [
@@ -170,6 +215,11 @@
         "date": "2026-03-15",
         "count": 13,
         "pct": 3.8
+      },
+      {
+        "date": "2026-04-17",
+        "count": 7,
+        "pct": 1.9
       }
     ],
     "Staff Engineer": [
@@ -187,6 +237,11 @@
         "date": "2026-03-15",
         "count": 8,
         "pct": 2.3
+      },
+      {
+        "date": "2026-04-17",
+        "count": 10,
+        "pct": 2.7
       }
     ],
     "Designer": [
@@ -204,6 +259,11 @@
         "date": "2026-03-15",
         "count": 6,
         "pct": 1.7
+      },
+      {
+        "date": "2026-04-17",
+        "count": 3,
+        "pct": 0.8
       }
     ],
     "Frontend Engineer": [
@@ -221,6 +281,11 @@
         "date": "2026-03-15",
         "count": 5,
         "pct": 1.5
+      },
+      {
+        "date": "2026-04-17",
+        "count": 5,
+        "pct": 1.4
       }
     ],
     "Data Scientist": [
@@ -238,6 +303,11 @@
         "date": "2026-03-15",
         "count": 7,
         "pct": 2
+      },
+      {
+        "date": "2026-04-17",
+        "count": 3,
+        "pct": 0.8
       }
     ],
     "Mobile Engineer": [
@@ -255,6 +325,11 @@
         "date": "2026-03-15",
         "count": 4,
         "pct": 1.2
+      },
+      {
+        "date": "2026-04-17",
+        "count": 3,
+        "pct": 0.8
       }
     ],
     "Data Engineer": [
@@ -272,6 +347,11 @@
         "date": "2026-03-15",
         "count": 4,
         "pct": 1.2
+      },
+      {
+        "date": "2026-04-17",
+        "count": 5,
+        "pct": 1.4
       }
     ],
     "Principal Engineer": [
@@ -289,6 +369,11 @@
         "date": "2026-03-15",
         "count": 4,
         "pct": 1.2
+      },
+      {
+        "date": "2026-04-17",
+        "count": 4,
+        "pct": 1.1
       }
     ],
     "Product Engineer": [
@@ -296,6 +381,11 @@
         "date": "2026-02-01",
         "count": 2,
         "pct": 0.5
+      },
+      {
+        "date": "2026-04-17",
+        "count": 1,
+        "pct": 0.3
       }
     ],
     "Sales": [
@@ -303,6 +393,13 @@
         "date": "2026-02-01",
         "count": 1,
         "pct": 0.2
+      }
+    ],
+    "Marketing": [
+      {
+        "date": "2026-04-17",
+        "count": 1,
+        "pct": 0.3
       }
     ]
   }
