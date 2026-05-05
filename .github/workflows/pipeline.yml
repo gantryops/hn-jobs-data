@@ -39,6 +39,40 @@ jobs:
           git diff --staged --quiet || git commit -m "data: $(date -u +'%Y-%m-%d') pipeline run"
           git push
 
+  # Deploy data to this repo's Pages so the site can fetch the fresh JSON.
+  deploy-pages:
+    needs: run-pipeline
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/configure-pages@v5
+
+      - name: Stage deployable content
+        run: |
+          mkdir _site
+          cp -r indexes _site/indexes
+          cp -r runs _site/runs
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+  # Only ping the site repo once the new data is live on Pages.
+  trigger-site:
+    needs: deploy-pages
+    runs-on: ubuntu-latest
+    steps:
       - uses: actions/create-github-app-token@v2
         id: app-token
         with:
