@@ -39,7 +39,15 @@ jobs:
           git diff --staged --quiet || git commit -m "data: $(date -u +'%Y-%m-%d') pipeline run"
           git push
 
+      - uses: actions/create-github-app-token@v2
+        id: app-token
+        with:
+          app-id: ${{ vars.DISPATCH_APP_ID }}
+          private-key: ${{ secrets.DISPATCH_APP_KEY }}
+          owner: gantryops
+          repositories: hn-jobs-site
+
       - name: Trigger site rebuild
         env:
-          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: gh api repos/gantryops/hn-jobs-site/dispatches -f event_type=data-updated
